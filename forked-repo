@@ -1,5 +1,4 @@
-curl https://api.github.com/repos/MazenW1/github-final-project
-{
+https://github.com/MazenW1/github-final-project/blob/main/forked-repo{
   "id": 1308111630,
   "node_id": "R_kgDOTfgzDg",
   "name": "mcino-Introduction-to-Git-and-GitHub",
